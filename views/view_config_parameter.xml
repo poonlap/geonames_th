@@ -1,0 +1,26 @@
+<odoo>
+<function model="ir.config_parameter" name="set_param" eval="('geonames.url', 'https://github.com/poonlap/odoo-th/raw/master/data/th/%s.zip')" />
+<function model="res.lang" name="load_lang" eval="('th_TH','th')" />
+<record id="base.th" model="res.country">
+    <field name="address_format">%(street)s
+%(street2)s
+%(city)s %(state_name)s %(zip)s
+%(country_name)s</field>
+</record>
+
+<!-- <record id="vat_label_name" model="res.country">
+    <field name="name">vat_label</field>
+    <field name="vat_label">Tax ID: </field>
+</record>
+<record id="vat_label_name_th" model="ir.translation">
+    <field name="name">res.country,vat_label</field>
+    <field name="res_id" ref="vat_label_name"></field>
+    <field name="type">model</field>
+    <field name="lang">th_TH</field>
+    <field name="src">Tax ID: </field>
+    <field name="value">เลขประจำตัวผู้เสียภาษี: </field>
+</record>
+ -->
+
+
+</odoo>
