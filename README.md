@@ -44,7 +44,7 @@ $ docker-compose up
 https://github.com/poonlap/odoo-th/raw/master/data/th/%s.zip
 ```
 
-- เพิ่มภาษาไทยในระบบ (ยังไม่สามารถ load translation ต้องไปทำเอง)
+- เพิ่มภาษาไทยในระบบ (ยังหาวิธีให้ load translation เองไม่ได้ ต้องไปทำเอง manual)
 - เปลี่ยน address_format ของ sales order ให้ใช้ชื่อจังหวัดจาก default เป็นรหัสจังหวัด (state code) แสดงผลตอนพิมพ์ (PDF)
 - ดัดแปลงแก้ form ช่อง complement ให้เติมตำบลในช่อง street2 จากเดิมที่โมดูลเดิมไม่ได้เติมให้
 
