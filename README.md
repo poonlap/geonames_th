@@ -32,7 +32,7 @@ $ docker-compose up
 ![](https://raw.githubusercontent.com/wiki/poonlap/odoo-th/images/geonames_th-completion.png)
 
 # วีดีโอสาธิต
-![](https://raw.githubusercontent.com/wiki/poonlap/odoo-th/images/geonames_th-completion.png)
+![](https://raw.githubusercontent.com/wiki/poonlap/odoo-th/images/geonames_th.gif)
 
 [ดูที่ Youtube](https://youtu.be/0E1FfSh1ZsQ)
 
