@@ -31,6 +31,11 @@ $ docker-compose up
 
 ![](https://raw.githubusercontent.com/wiki/poonlap/odoo-th/images/geonames_th-completion.png)
 
+# วีดีโอสาธิต
+![](https://raw.githubusercontent.com/wiki/poonlap/odoo-th/images/geonames_th-completion.png)
+
+[ดูที่ Youtube](https://youtu.be/0E1FfSh1ZsQ)
+
 # โมดูลนี้จริงๆแล้วทำอะไร
 - ติดตั้งโมดูล [Base Location Geonames Import](https://github.com/OCA/partner-contact/tree/13.0/base_location_geonames_import)
 - ตั้งค่า system parameter `geonames.url` ไปที่
